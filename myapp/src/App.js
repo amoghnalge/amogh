@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   // let name = "Amogh";
   // let list = ["mumbai", "delhi", "kolkata", "chennai"];
-  let title = "onclick demo";
+  let title = "onclick demo   dad";
   let myfun = () => {
     alert("hello");
   };
